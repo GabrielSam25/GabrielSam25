@@ -14,7 +14,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-```javascript
+```js
 const developer = {
   nome: "Gabriel Sam",
   area: "Desenvolvimento Full-Stack",
@@ -69,7 +69,7 @@ Landing Pages – Designs responsivos e otimizados para conversão
 Sistemas de Gestão – Soluções personalizadas para negócios
 
 🚀 Metodologia
-typescript
+ts
 Copiar código
 interface MyApproach {
   cleanCode: "Práticas SOLID & Código Limpo";
