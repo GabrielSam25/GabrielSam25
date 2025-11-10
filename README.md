@@ -1,19 +1,23 @@
-🚀 Desenvolvedor Full-Stack | Especialista em Soluções Web & Sistemas
-<div align="center">
-Transformando ideias em sistemas robustos e experiências digitais excepcionais
+# 🚀 Desenvolvedor Full-Stack | Especialista em Soluções Web & Sistemas
 
-https://img.shields.io/badge/%F0%9F%8C%90_Portf%C3%B3lio-000?style=for-the-badge
-https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/%F0%9F%93%A7_Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white
+<div align="center">
+
+**Transformando ideias em sistemas robustos e experiências digitais excepcionais**
+
+[![Portfólio](https://img.shields.io/badge/🌐_Portfólio-000?style=for-the-badge)](https://seusite.com)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuperfil)
+[![Email](https://img.shields.io/badge/📧_Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@provedor.com)
 
 </div>
-👨‍💻 Sobre Mim
-javascript
+
+## 👨‍💻 Sobre Mim
+
+```javascript
 const developer = {
   nome: "Seu Nome",
   area: "Desenvolvimento Full-Stack",
   foco: "Sistemas web escaláveis e soluções personalizadas",
-  passao: "Transformar problemas complexos em código elegante",
+  paixao: "Transformar problemas complexos em código elegante",
   stack: {
     frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
     backend: ["Node.js", "Express", "Python", "FastAPI"],
@@ -42,7 +46,7 @@ Back-end & Banco de Dados
 Ferramentas & DevOps
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" /></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" /></code>
-<code><img height="40" src="https://cdn.jsdeldelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" /></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" /></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="Figma" /></code>
 
 </div>
@@ -122,4 +126,4 @@ https://img.shields.io/badge/%F0%9F%91%94_LinkedIn-0077B5?style=for-the-badge&lo
 "Código não é só instruções para máquinas, é a materialização de soluções para pessoas."
 ⭐️ From SEU_USERNAME
 
-</div>
+</div> ```
