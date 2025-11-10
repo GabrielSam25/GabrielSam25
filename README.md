@@ -2,7 +2,7 @@
 
 > **Transformando ideias em sistemas robustos e experiências digitais incríveis.**
 
-[🌐 Portfólio](https://seusite.com) • [💼 LinkedIn](https://linkedin.com/in/seuperfil) • [📧 Contato](mailto:seu.email@provedor.com)
+[🌐 Portfólio & Contato](https://gabrielsamdev.netlify.app/) • [💼 LinkedIn](https://linkedin.com/in/seuperfil) • [📧 Email](mailto:seu.email@provedor.com)
 
 ---
 
@@ -63,12 +63,14 @@ Trabalho no desenvolvimento de sistemas completos — do design à implantação
 
 ---
 
-## 📫 Contato
+## 📫 Contato & Projetos
 
-Quer conversar sobre um projeto ou colaboração?
+Quer conversar sobre um projeto, parceria ou desenvolvimento sob medida?  
+Visite meu site e entre em contato 👇
+
+🎯 **[https://gabrielsamdev.netlify.app/](https://gabrielsamdev.netlify.app/)**  
 
 📧 [seu.email@provedor.com](mailto:seu.email@provedor.com)  
-💬 [WhatsApp](https://wa.me/SEUNUMERO)  
 💼 [LinkedIn](https://linkedin.com/in/seuperfil)  
 
 ---
