@@ -70,10 +70,6 @@ Visite meu site e entre em contato 👇
 
 🎯 **[https://gabrielsamdev.netlify.app/](https://gabrielsamdev.netlify.app/)**  
 
-📧 [seu.email@provedor.com](mailto:seu.email@provedor.com)  
-💼 [LinkedIn](https://linkedin.com/in/seuperfil)  
-
----
 
 <div align="center">
 
